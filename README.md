@@ -14,8 +14,6 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 - [ ] Get into  [flowcv.io](https://app.flowcv.com/), create an account. Make sure to save your username and password.
 
-- [ ] Carefully read [this lesson](https://content.breatheco.de/en/lesson/making-an-amazing-resume) and start building your resume by applying the recommendations.
-
 ### Layout
 
 - [ ] The layout should be readable from top to bottom, with NO columns.
@@ -66,7 +64,35 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 - [ ] Mention the programming languages, technologies, and tools you know.
 
-- [ ] When you add the technologies in the Skills section, add them in different entries. 
+- [ ] When you add the technologies in the Skills section, add them in different entries.
+
+These are the most important most wanted technologies for Full-Stack:
+
+```txt
+HTML5/CSS3, Bootstrap, Javascript ECMAScript 2020, DOM, GIT/Github, Python, Flask, APIs, React.js, Flux, SCRUM, SQL, SQLAlchemy, MySQL, Postgres
+```
+
+for Data Science:
+```txt
+Python, Numpy, Pandas, Matplotlib, Data Science, Machine Learning, Exploratory data analysis (EDA), Webscraping
+```
+
+You also learned these secondary technologies that may be useful depending on what company you are applying to:
+
+```txt
+Deploying, Markdown, User Stories, Data-Structures, Data-Modeling, REST, MVC.
+```
+
+and for Cybersecurity:
+```txt
+ISO 27001, Pentesting, Linux, Network Administration, Compliance, Incident Response, Data Protection, Vulnerability assessment, Red team/Blue team, Wireshark, ARP, NMAP, Open source intelligence (OSInt), Data loss prevention (DLP), Risk Management, NIST, ENS, Singularity Hackers, Documentation, Reporting, Investigating, Cyberintelligence, Ethic Hacking
+```
+
+Additionally, these are good technologies that we don't teach during the 18 weeks but will be easy to learn and add a lot of value to your resume:
+
+```txt
+Unit testing, jQuery, Gatsby.js, SSR, AWS, Firbase, WordPress, React Native.
+```
 
 ### Projects
 Add at least 2 projects. One of the projects can be the final project of 4Geeks.
