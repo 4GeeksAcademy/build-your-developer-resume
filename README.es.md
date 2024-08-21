@@ -13,8 +13,6 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 - [ ] Verifica estas [2 plantillas de currículum](https://4geeksacademy.notion.site/Resume-Templates-CV-Templates-7e72180d5f274276b7ee5614b1df86a2).
 
 - [ ] Entra en [flowcv.io](https://app.flowcv.com/), crea una cuenta. Asegúrate de guardar tu nombre de usuario y contraseña.
- 
-- [ ] Lee atentamente [esta lección](https://4geeks.com/es/lesson/making-an-amazing-resume-es) y comienza a crear tu currículum aplicando las recomendaciones.
 
 ### Diseño
 
@@ -62,7 +60,30 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 ### Tecnologías
 
 - [ ] Menciona los lenguajes de programación, las tecnologías y las herramientas que conoces.
-      
+Para Full Stack:
+```txt
+HTML5/CSS3, Bootstrap, Javascript ECMAScript 2020, DOM, GIT/Github, Python, Flask, APIs, React.js, Flux, SCRUM, SQL, SQLAlchemy, MySQL, Postgres
+```
+Para Data Science:
+```txt
+Python, Numpy, Pandas, Matplotlib, Data Science, Machine Learning, Exploratory data analysis (EDA), Webscraping
+```
+
+También has aprendido tecnologías secundarias que pueden ser útiles dependiendo de la compañía a la cual estas postulando:
+
+```txt
+Despliegue, Markdown, User Stories, Data-Structures, Data-Modeling, REST, MVC.
+```
+Adicionalmente estas son buenas tecnologías que no enseñamos durante las 18 semanas pero que son fáciles de aprender y añaden mucho valor a tu curriculum:
+
+```txt
+Unit testing, Gatsby.js, SSR, AWS, Node.js, Firebase, WordPress, React Native.
+```
+Y para ciberseguridad:
+```txt
+ISO 27001, Pentesting, Linux, Administración de Redes, Compliance, Respuesta Incidentes, Protección de Datos, Pruebas de Vulnerabilidad, Red team/Blue team, Wireshark, ARP, NMAP, Open source intelligence (OSInt), Prevención de Perdida de Datos (DLP), Manejo de Riesgo, NIST, ENS, Documentación, Reportes de vulnerabilidad, Cyberinteligencia, Hacking Etico 
+```
+
 ### Proyectos
 
 Es recomendable colocar al menos 2 proyectos. Uno de los proyectos puede ser el proyecto final de 4Geeks. 
